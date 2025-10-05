@@ -1,0 +1,5 @@
+{
+  "name": "3D Vapor Physics Simulation",
+  "description": "An interactive 3D simulation of vapor physics in a gritty bathroom environment. Users can control heat, inhalation, and other parameters to observe the melting, vaporization, and recrystallization of shards in a glass pipe.",
+  "requestFramePermissions": []
+}
